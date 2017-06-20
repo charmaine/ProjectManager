@@ -9,3 +9,6 @@ Users can:
 
 Technologies used:
 HTML, CSS, Skeleton CSS, JavaScript, jQuery, Node.js, Express
+
+Run with:
+`npm install && npm start`
