@@ -1,0 +1,22 @@
+{
+  "name": "ProjectManager",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charmaine/"
+  },
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "express": "4.13.4",
+    "express-handlebars": "3.0.0",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "rimraf": "2.5.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "clean": "rimraf .tmp/"
+  }
+}
